@@ -149,4 +149,9 @@ It demonstrates frontend development, backend APIs, database integration, authen
 
 ## ⭐ GitHub Repository
 
-[MERN-Chat-App Repository](https://github.com/SrimanthulaAsmitha/MERN-Chat-App?utm_source=chatgpt.com)
+[MERN-Chat-App Repository](https://github.com/SrimanthulaAsmitha/MERN-Chat-App?)
+
+## 🌐 Live Demo
+
+[Open the MERN Chat App](https://srimanthulaasmitha.github.io/MERN-Chat-App/)
+
